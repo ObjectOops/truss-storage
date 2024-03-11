@@ -1,3 +1,9 @@
+The maximum is 15 kg --> ~150 N.
+"Efficiency" = force / total member length
+
 pylon_1:
-    Net Force: 315
-    Efficiency: 0.8467
+    Net Force: <150 (exceeds critical load)
+    Efficiency: 0.3803
+pylon_2:
+    Net Force: <150 (exceeds critical load)
+    Efficiency: 0.3967
