@@ -7,3 +7,20 @@ pylon_1:
 pylon_2:
     Net Force: <150 (exceeds critical load)
     Efficiency: 0.3967
+
+Note: Subsequent listings will target (150 / 4) = 37.5 N because there are four sides to the tower.
+Disregard pylons 1 and 2?
+
+pylon_3:
+    Net Force: 37.5 N
+    Efficiency: 0.1006
+
+pylon_4 (optimized for physical construction):
+    Net Force: 37.5 N
+    Efficiency: 0.0995
+
+conventional_1 (optimized for physical construction):
+    Net Force: 37.5 N
+    Efficiency: 0.1247
+    (Why must the boring designs be the most effective?)
+    (I was personally hoping for the pylons.)

@@ -11,9 +11,21 @@ Tower Notes:
 - Design logs must use the template.
     - Three unique towers tested beforehand.
     - 25% more points if log is complete.
+- Maximum 15 kg / ~150 N load.
+- 150 / 4 = 37.5 N load per side.
 
 Additional Notes:
-- hmm
+- The thickest balsa wood member shall be 1/4" x 1/8".
+- Baseline Strengths:
+    - Tensile: 13.9 N
+    - Compressive: 139.0 N
+- Baseline Strengths at 1.00 GPa (tensile and compressive):
+    - 20.0 N
+- Effective Strengths (tensile and compressive);
+    - 40 N, for some reason...
+- The critical load for a member of length 20 cm is 12.54 N.
+    - Recall that halving the length will increase the critical load by x4.
+- Four of 6.24 cm spacing...
 
 Old Simulator Instructions:
 > Basic Instructions for Simulator (see link somewhere above, specific to this year's parameters):
