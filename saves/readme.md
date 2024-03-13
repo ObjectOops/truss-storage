@@ -26,6 +26,10 @@ Additional Notes:
 - The critical load for a member of length 20 cm is 12.54 N.
     - Recall that halving the length will increase the critical load by x4.
 - Four of 6.24 cm spacing...
+- 1/8" x 1/8"
+    - Tensile: ~7 N
+    - Compressive: ~70 N
+    - Critical Load (20 cm): ~6.25 N
 
 Old Simulator Instructions:
 > Basic Instructions for Simulator (see link somewhere above, specific to this year's parameters):

@@ -24,3 +24,8 @@ conventional_1 (optimized for physical construction):
     Efficiency: 0.1247
     (Why must the boring designs be the most effective?)
     (I was personally hoping for the pylons.)
+
+conventional_optimized (optimized only for critical load):
+    Net Force: 37.5 N
+    Efficiency: 0.1181
+    (Interesting...)
